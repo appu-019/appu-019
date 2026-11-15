@@ -27,7 +27,7 @@ Real experiments, real attackers, real findings. Each repo is one episode.
 | # | Episode | What happens | Status |
 |:-:|---|---|:-:|
 | 01 | **leaked-on-purpose** | I leaked fake AWS keys in public places. Who came, how fast, and what they tried. | 🎥 filming |
-| 02 | **cve-to-chaos** | A new CVE drops. Watch the internet get attacked within hours. | 🎥 filming |
+| 02 | [**cve-to-chaos**](https://github.com/appu-019/cve-to-chaos) | A 10-year-old OpenSSH bug went public. 40 hours later, attackers were inside servers. | ✅ released |
 | 03 | **infostealer-autopsy** | What an infostealer grabs from your browser in 3 seconds. | 🎥 filming |
 | 04 | **mfa-bypass-phishkit** | How phishing kits walk right past your MFA, and what actually stops them. | 🎥 filming |
 | 05 | **can-i-spoof-fortune500** | Which Fortune 500 companies can be email-spoofed right now? | 🎥 filming |
